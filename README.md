@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# FewOne
-=======
 # FewOne
 
 This directory is supplemented with the paper entitled
@@ -32,4 +29,3 @@ Each single method can be runed directly
 ## compute_cov_score
 The code about how to compute cov score for features.
 
->>>>>>> 49006ad...  Readme
