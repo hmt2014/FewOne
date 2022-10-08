@@ -5,7 +5,13 @@ This directory is supplemented with the paper entitled
 
 ## Environment
 
-    Python: 3.7
+    Python: 3.7.13
+    Pytorch: 1.11.0
+    transformers: 4.14.1
+    sklearn: 1.0.2
+    numpy: 1.21.2
+
+
 
 
 ## Datasets
