@@ -35,3 +35,19 @@ Each single method can be runed directly
 ## compute_cov_score
 The code about how to compute cov score for features.
 
+## Citation
+    @inproceedings{hu-etal-2022-classical,
+        title = "Classical Sequence Match Is a Competitive Few-Shot One-Class Learner",
+        author = "Hu, Mengting  and
+          Gao, Hang  and
+          Bai, Yinhao  and
+          Liu, Mingming",
+        booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+        month = oct,
+        year = "2022",
+        address = "Gyeongju, Republic of Korea",
+        publisher = "International Committee on Computational Linguistics",
+        url = "https://aclanthology.org/2022.coling-1.419",
+        pages = "4728--4740"
+    }
+
